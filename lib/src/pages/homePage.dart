@@ -166,7 +166,7 @@ class _HomePageState extends State<HomePage> {
               imageUrl: 'images/programming.png',
               tagline: '"How you look at it is pretty much how you\'ll see it"',
               message:
-                  "I stated programming when I was 12 years old. I develop Mobile Apps, with design in mind. I've been developing apps for more than 3+ years. I use Flutter to develop apps for both iOS & Android.",
+                  "I started programming when I was 12 years old. I develop Mobile Apps, with design in mind. I've been developing apps for more than 3+ years. I use Flutter to develop apps for both iOS & Android.",
             ),
             SizedBox(height: size.height * .03),
             _whatIDo(
